@@ -1,5 +1,9 @@
 @import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,700,900");
+.bg{
+ background-image: url("02.jpg");  
+ background-size: cover; 
+}
 .myCast .player-wpr {
     max-width: 532px;
     height: 122px;
