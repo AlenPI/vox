@@ -604,6 +604,7 @@
     width: auto;
     height: 355px;
     background-image: url(01.png);
+    background-repeat: no-repeat;
     background-size: contain;
     padding: 1px 1px 0 1px;
     position: relative;
